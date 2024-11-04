@@ -10,7 +10,7 @@ https://github.com/pranay-009/background-remover
 
 Original Image | Generated Image
 :-------------:|:---------------:
-![Original Image](./static/my_image.jpeg) | ![Generated Image](./output/result.png)
+![Original Image](./static/1727710542073.jpg) | ![Generated Image](./output/results.png)
 
 ### Video
 
