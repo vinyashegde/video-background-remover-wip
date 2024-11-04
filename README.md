@@ -6,7 +6,7 @@ Welcome to the Background Remover project! This tool allows you to effortlessly 
 
 https://github.com/pranay-009/background-remover
 
-### Images
+# Images
 
 Original Image | Generated Image
 :-------------:|:---------------:
