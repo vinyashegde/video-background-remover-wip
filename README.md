@@ -1,7 +1,10 @@
-# Background Remover
+# Video Background Remover
 
 Welcome to the Background Remover project! This tool allows you to effortlessly replace backgrounds in images and videos, making it perfect for creating professional LinkedIn profile pictures and more.
 
+# OG repo
+
+https://github.com/pranay-009/background-remover
 
 ### Images
 
