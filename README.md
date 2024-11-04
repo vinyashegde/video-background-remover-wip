@@ -2,8 +2,7 @@
 
 Welcome to the Background Remover project! This tool allows you to effortlessly replace backgrounds in images and videos, making it perfect for creating professional LinkedIn profile pictures and more.
 
-## Demo
-[Catch a live demo on Hugging Face](https://huggingface.co/spaces/Pranay009/Background-Remove)
+
 ### Images
 
 Original Image | Generated Image
@@ -15,8 +14,7 @@ Original Image | Generated Image
 | Uploaded Video | Generated Video |
 | -------------- | --------------- |
 ![Uploaded Video](./static/gif/video4.gif) | ![Generated Video](./static/gif/my_video.gif)
-|                |                 |
-![Uploaded Video](./static/gif/video55.gif) | ![Generated Video](./static/gif/video3.gif)
+
 
 
 ## Installation
@@ -24,7 +22,7 @@ Original Image | Generated Image
 ### Docker
 
 1. Make sure you have Docker installed on your machine.
-2. Clone the repository: `git clone https://github.com/pranay-009/background-remover.git`
+2. Clone the repository: `git clone https://github.com/vinyashegde/video-background-remover-wip.git`
 3. Navigate to the project directory: `cd background-remover`
 4. Build the Docker image: `docker build -t background-remover .`
 5. Run the Docker container: `docker run -p 8501:8501 background-remover`
@@ -33,8 +31,8 @@ The application will be accessible at `http://localhost:8501`.
 
 ### Requirements.txt
 
-1. Clone the repository: `git clone https://github.com/pranay-009/background-remover.git`
-2. Navigate to the project directory: `cd background-remover`
+1. Clone the repository: `git clone https://github.com/vinyashegde/video-background-remover-wip.git`
+2. Navigate to the project directory: `cd video-background-remover-wip`
 3. Install dependencies using pip: `pip install -r requirements.txt`
 4. Run the application: `streamlit run app.py`
 
